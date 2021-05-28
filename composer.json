@@ -1,0 +1,21 @@
+{
+	"name": "slc1/woocommerce-custom-taxonomies",
+	"description": "Plugin for woocommerce-custom-taxonomies",
+	"keywords": [
+		"slc",
+		"woocommerce"
+	],
+	"autoload": {
+		"psr-4": {
+			"Slc\\WooTaxonomies\\": "src"
+		}
+	},
+	"config": {
+		"preferred-install": "dist",
+		"sort-packages": true,
+		"optimize-autoloader": true,
+		"platform": {
+			"php": "7.3.11"
+		}
+	}
+}
