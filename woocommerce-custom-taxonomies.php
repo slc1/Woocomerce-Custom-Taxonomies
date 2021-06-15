@@ -12,6 +12,9 @@ use Slc\WooTaxonomies\CustomTaxonomyBuilder;
 
 require_once('vendor/autoload.php');
 
+$mo_file_path = dirname(__FILE__) . '/languages/woocommerce-custom-taxonomies-' . determine_locale() . '.mo';
+load_textdomain('woocommerce-custom-taxonomies', $mo_file_path);
+
 add_action('init', function () {
     if (class_exists('WooCommerce')) {
         $customTaxonomyBuilder = CustomTaxonomyBuilder::getInstance();
