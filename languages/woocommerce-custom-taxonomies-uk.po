@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-06-15 16:05+0300\n"
-"PO-Revision-Date: 2021-10-20 18:21+0300\n"
+"PO-Revision-Date: 2021-10-20 18:25+0300\n"
 "Last-Translator: \n"
 "Language-Team: SLC <admin@slc.org.ua>\n"
 "Language: uk\n"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: src/WooTaxonomies/WooAdminTaxonomy.php:96
 msgid "Make default"
-msgstr ""
+msgstr "Зробити по-замовчуванню"
 
 #: src/WooTaxonomies/WooAdminTaxonomy.php:130
 #, php-format
