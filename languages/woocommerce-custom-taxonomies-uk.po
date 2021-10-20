@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-06-15 16:05+0300\n"
+"PO-Revision-Date: 2021-10-20 18:21+0300\n"
+"Last-Translator: \n"
+"Language-Team: SLC <admin@slc.org.ua>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: esc_html__;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:167
+msgid "All"
+msgstr "Все"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:168
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:169
+msgid "Parent"
+msgstr "Батьківський"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:170
+msgid "New"
+msgstr "Новий"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:170
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:54
+msgid "Name"
+msgstr "І'мя"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:171
+msgid "Add New"
+msgstr "Додати новий"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:172
+msgid "Edit"
+msgstr "Редагувати"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:173
+msgid "Update"
+msgstr "Поновити"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:174
+msgid "Separate"
+msgstr "Окремий"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:174
+msgid "with commas"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:175
+msgid "Search"
+msgstr "Пошук"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:176
+msgid "Add or remove"
+msgstr "Додати або видалити"
+
+#: src/WooTaxonomies/CustomTaxonomyAbstract.php:177
+msgid "Choose from the most used"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:39
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:41
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:45
+msgid "Product"
+msgstr "Товар"
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:46
+msgid "Title"
+msgstr "Назва"
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:51
+msgid "Order by"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:53
+msgid "Category order"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:60
+msgid "Show as dropdown"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:65
+msgid "Show product counts"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:70
+msgid "Show hierarchy"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:75
+msgid "Only show children of the current category"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:80
+msgid "Hide empty categories"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:85
+msgid "Maximum depth"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:263
+msgid "Select a category"
+msgstr ""
+
+#: src/WooTaxonomies/CustomTaxonomyWidget.php:284
+msgid "No product categories exist."
+msgstr ""
+
+#: src/WooTaxonomies/ProductBrand.php:11
+msgid "Product brand"
+msgstr "Виробник товару"
+
+#: src/WooTaxonomies/ProductBrand.php:12
+msgid "Product brands"
+msgstr "Виробники товара"
+
+#: src/WooTaxonomies/WooAdminTaxonomy.php:95
+#, php-format
+msgid "Make &#8220;%s&#8221; the default category"
+msgstr ""
+
+#: src/WooTaxonomies/WooAdminTaxonomy.php:96
+msgid "Make default"
+msgstr ""
+
+#: src/WooTaxonomies/WooAdminTaxonomy.php:130
+#, php-format
+msgid ""
+"Deleting a category does not delete the products in that category. Instead, "
+"products that were only assigned to the deleted category are set to the "
+"category %s."
+msgstr ""
